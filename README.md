@@ -1,4 +1,4 @@
-# Proyecto de Fine-Tuning de Modelo de Generación de Texto en Español
+# Proyecto de Fine-Tuning de Modelo de clasificación de sentimientos en inglés
 
 Este proyecto se centra en el fine-tuning de un modelo de generación de texto (GPT-2) en español utilizando el modelo `datificate/gpt2-small-spanish`. El objetivo principal es generar mensajes de texto (SMS) promocionales en español coherentes dada una frase de inicio.
 
